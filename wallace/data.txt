@@ -1,0 +1,21 @@
+path:
+- data.csv
+- data.rds
+rows: 8
+cols: 13
+columns:
+  id: character
+  name: character
+  provenance: character
+  datemin: numeric
+  datemax: numeric
+  medium: character
+  length: numeric
+  blade: numeric
+  width: numeric
+  weight: numeric
+  location: character
+  photo: character
+  img: list
+description: Dataset of rapiers from the Wallace collection
+type: table
