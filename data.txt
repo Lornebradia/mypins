@@ -1,6 +1,6 @@
 - path: wallace
   name: wallace
-  rows: 50
+  rows: 52
   cols: 11
   description: Dataset of rapiers from the Wallace collection
   type: table
