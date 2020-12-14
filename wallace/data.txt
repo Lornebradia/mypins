@@ -1,20 +1,18 @@
 path:
 - data.csv
 - data.rds
-rows: 25
-cols: 13
+rows: 2
+cols: 11
 columns:
   id: character
   name: character
   provenance: character
   datemin: numeric
   datemax: numeric
-  medium: character
   length: numeric
   blade: numeric
   width: numeric
   weight: numeric
-  location: character
   photo: character
   img: list
 description: Dataset of rapiers from the Wallace collection
