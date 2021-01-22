@@ -17,3 +17,6 @@ columns:
   img: list
 description: Dataset of rapiers from the Wallace collection
 type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
