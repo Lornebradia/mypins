@@ -4,8 +4,3 @@
   cols: 11
   description: Dataset of rapiers from the Wallace collection
   type: table
-- path: mtcars2
-  name: mtcars2
-  rows: 32
-  cols: 11
-  type: table
